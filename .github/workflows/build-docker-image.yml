@@ -1,5 +1,4 @@
 name: Build and Push Docker Image
-#/nodejs:latest=镜像名称:tag名称自定义
 on:
   push:
     branches: [ main ]
